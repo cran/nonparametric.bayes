@@ -1,0 +1,17 @@
+7f22fcb2d38618162e9a0eb966644c59 *DESCRIPTION
+85e039b9f061ddac8f4430053e472f17 *LICENSE
+f4b465a862f3a019fe9437a7b7499792 *NAMESPACE
+998b782f384c77ffa08da77e43d6bd21 *R/datasets.r
+013dce8caf9084b484e42bb8af856ffa *R/generate_dirichlet.r
+4eb6b4f981a50e6b4fec5c6dcd64a393 *R/generate_dpmm.r
+a60cb8ae66709bd5366535677ee4ff5e *R/gibbs_crp_mixture.r
+9fed440c00bc8a13deacd7fdd2433826 *R/visual_dpmm.r
+370705cb253dd25511c34c0a27d0a213 *R/visual_sample_rdirichlet.r
+02efbfd4f52742e2dba01aa5383d8289 *README.md
+46f25191ac5672ade480687036087567 *man/cluster_datapoints.Rd
+502f6a59d36305b060ea7c9d5b9108af *man/generate_dirichlet_clusters.Rd
+ec69936486912d80c22904a29eec9c50 *man/generate_dirichlet_clusters_with_sampled_points.Rd
+3ea70dfa553de69b8be2386090f5d1fc *man/generate_split_data.Rd
+d1ef9960b1cc7be4a7452350079aefa9 *man/rDPM.Rd
+610d54ff8ed3a8417e0ad6d734709b1e *man/rDPM_visual.Rd
+b581c050e9eeeb5020d2873cdff24e8a *man/rdirichlet.Rd
